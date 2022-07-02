@@ -27,7 +27,7 @@
                     </div>
                 </div>
 
-                <!--Formulario de Login y registro-->
+                <!--Formulario de Login y de registro-->
                 <div class="contenedor__login-register">
                     <!--Login-->
                     <form action="php/login.php" method="POST" class="formulario__login">
@@ -45,7 +45,7 @@
                         <input type="text" placeholder="Dirección Entrega" name="direccion">
                         <input type="text" placeholder="Usuario" name="usuario">
                         <input type="password" placeholder="Contraseña" name="contraseña">
-                        <button>Regístrarse</button>
+                        <button>Registrarse</button>
                     </form>
                 </div>
             </div>
